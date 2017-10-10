@@ -1,1 +1,2 @@
-# mycolorgame - https://hanapotski.github.io/mycolorgame/
+# My Color Game
+Project for the Web Development Bootcamp Course
